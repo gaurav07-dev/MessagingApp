@@ -11,7 +11,7 @@
 	<groupId>com.gaurav</groupId>
 	<artifactId>MessagingApp</artifactId>
 	<version>1.0</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>MessagingApp</name>
 	<description>Messaging application</description>
 	<properties>
